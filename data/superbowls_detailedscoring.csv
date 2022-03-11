@@ -1,0 +1,32 @@
+,Unnamed: 0,away_name,away_abbr,away_score,home_name,home_abbr,home_score,winning_name,winning_abbr,losing_name,losing_abbr,boxscore,home_q1,home_q2,home_q3,home_q4,away_q1,away_q2,away_q3,away_q4
+0,"('21-1990', 0)",New York Giants,nyg,20,Buffalo Bills,buf,19,New York Giants,nyg,Buffalo Bills,buf,199101270buf,3.0,9.0,0.0,7.0,3.0,7.0,7.0,3.0
+1,"('21-1991', 0)",Washington Redskins,was,37,Buffalo Bills,buf,24,Washington Redskins,was,Buffalo Bills,buf,199201260buf,0.0,0.0,10.0,14.0,0.0,17.0,14.0,6.0
+2,"('21-1992', 0)",Dallas Cowboys,dal,52,Buffalo Bills,buf,17,Dallas Cowboys,dal,Buffalo Bills,buf,199301310buf,7.0,3.0,7.0,0.0,14.0,14.0,3.0,21.0
+3,"('21-1993', 0)",Kansas City Chiefs,kan,13,Buffalo Bills,buf,30,Buffalo Bills,buf,Kansas City Chiefs,kan,199401230buf,7.0,13.0,0.0,10.0,6.0,0.0,7.0,0.0
+4,"('21-1993', 1)",San Francisco 49ers,sfo,21,Dallas Cowboys,dal,38,Dallas Cowboys,dal,San Francisco 49ers,sfo,199401230dal,7.0,21.0,7.0,3.0,0.0,7.0,7.0,7.0
+5,"('21-1994', 0)",San Francisco 49ers,sfo,49,San Diego Chargers,sdg,26,San Francisco 49ers,sfo,San Diego Chargers,sdg,199501290sdg,7.0,3.0,8.0,8.0,14.0,14.0,14.0,7.0
+6,"('21-1995', 0)",Pittsburgh Steelers,pit,17,Dallas Cowboys,dal,27,Dallas Cowboys,dal,Pittsburgh Steelers,pit,199601280dal,10.0,3.0,7.0,7.0,0.0,7.0,0.0,10.0
+7,"('21-1996', 0)",New England Patriots,nwe,21,Green Bay Packers,gnb,35,Green Bay Packers,gnb,New England Patriots,nwe,199701260gnb,10.0,17.0,8.0,0.0,14.0,0.0,7.0,0.0
+8,"('21-1997', 0)",Green Bay Packers,gnb,24,Denver Broncos,den,31,Denver Broncos,den,Green Bay Packers,gnb,199801250den,7.0,10.0,7.0,7.0,7.0,7.0,3.0,7.0
+9,"('21-1998', 0)",Denver Broncos,den,34,Atlanta Falcons,atl,19,Denver Broncos,den,Atlanta Falcons,atl,199901310atl,3.0,3.0,0.0,13.0,7.0,10.0,0.0,17.0
+10,"('21-1999', 0)",St. Louis Rams,ram,23,Tennessee Titans,oti,16,St. Louis Rams,ram,Tennessee Titans,oti,200001300oti,0.0,0.0,6.0,10.0,3.0,6.0,7.0,7.0
+11,"('21-2000', 0)",Baltimore Ravens,rav,34,New York Giants,nyg,7,Baltimore Ravens,rav,New York Giants,nyg,200101280nyg,0.0,0.0,7.0,0.0,7.0,3.0,14.0,10.0
+12,"('21-2001', 0)",St. Louis Rams,ram,17,New England Patriots,nwe,20,New England Patriots,nwe,St. Louis Rams,ram,200202030nwe,0.0,14.0,3.0,3.0,3.0,0.0,0.0,14.0
+13,"('21-2002', 0)",Tampa Bay Buccaneers,tam,48,Oakland Raiders,rai,21,Tampa Bay Buccaneers,tam,Oakland Raiders,rai,200301260rai,3.0,0.0,6.0,12.0,3.0,17.0,14.0,14.0
+14,"('21-2003', 0)",New England Patriots,nwe,32,Carolina Panthers,car,29,New England Patriots,nwe,Carolina Panthers,car,200402010car,0.0,10.0,0.0,19.0,0.0,14.0,0.0,18.0
+15,"('21-2004', 0)",Philadelphia Eagles,phi,21,New England Patriots,nwe,24,New England Patriots,nwe,Philadelphia Eagles,phi,200502060nwe,0.0,7.0,7.0,10.0,0.0,7.0,7.0,7.0
+16,"('21-2005', 0)",Seattle Seahawks,sea,10,Pittsburgh Steelers,pit,21,Pittsburgh Steelers,pit,Seattle Seahawks,sea,200602050pit,0.0,7.0,7.0,7.0,3.0,0.0,7.0,0.0
+17,"('21-2006', 0)",Indianapolis Colts,clt,29,Chicago Bears,chi,17,Indianapolis Colts,clt,Chicago Bears,chi,200702040chi,14.0,0.0,3.0,0.0,6.0,10.0,6.0,7.0
+18,"('21-2007', 0)",New York Giants,nyg,17,New England Patriots,nwe,14,New York Giants,nyg,New England Patriots,nwe,200802030nwe,0.0,7.0,0.0,7.0,3.0,0.0,0.0,14.0
+19,"('21-2008', 0)",Pittsburgh Steelers,pit,27,Arizona Cardinals,crd,23,Pittsburgh Steelers,pit,Arizona Cardinals,crd,200902010crd,0.0,7.0,0.0,16.0,3.0,14.0,3.0,7.0
+20,"('21-2009', 0)",New Orleans Saints,nor,31,Indianapolis Colts,clt,17,New Orleans Saints,nor,Indianapolis Colts,clt,201002070clt,10.0,0.0,7.0,0.0,0.0,6.0,10.0,15.0
+21,"('21-2010', 0)",Pittsburgh Steelers,pit,25,Green Bay Packers,gnb,31,Green Bay Packers,gnb,Pittsburgh Steelers,pit,201102060pit,14.0,7.0,0.0,10.0,0.0,10.0,7.0,8.0
+22,"('21-2011', 0)",New York Giants,nyg,21,New England Patriots,nwe,17,New York Giants,nyg,New England Patriots,nwe,201202050nwe,0.0,10.0,7.0,0.0,9.0,0.0,6.0,6.0
+23,"('21-2012', 0)",San Francisco 49ers,sfo,31,Baltimore Ravens,rav,34,Baltimore Ravens,rav,San Francisco 49ers,sfo,201302030sfo,7.0,14.0,7.0,6.0,3.0,3.0,17.0,8.0
+24,"('21-2013', 0)",Seattle Seahawks,sea,43,Denver Broncos,den,8,Seattle Seahawks,sea,Denver Broncos,den,201402020den,0.0,0.0,8.0,0.0,8.0,14.0,14.0,7.0
+25,"('21-2014', 0)",New England Patriots,nwe,28,Seattle Seahawks,sea,24,New England Patriots,nwe,Seattle Seahawks,sea,201502010sea,0.0,14.0,0.0,14.0,0.0,14.0,10.0,0.0
+26,"('21-2015', 0)",Carolina Panthers,car,10,Denver Broncos,den,24,Denver Broncos,den,Carolina Panthers,car,201602070den,0.0,7.0,0.0,3.0,10.0,3.0,3.0,8.0
+27,"('21-2016', 0)",New England Patriots,nwe,34,Atlanta Falcons,atl,28,New England Patriots,nwe,Atlanta Falcons,atl,201702050atl,,,,,,,,
+28,"('21-2017', 0)",Philadelphia Eagles,phi,41,New England Patriots,nwe,33,Philadelphia Eagles,phi,New England Patriots,nwe,201802040nwe,3.0,9.0,14.0,7.0,9.0,13.0,7.0,12.0
+29,"('21-2018', 0)",New England Patriots,nwe,13,Los Angeles Rams,ram,3,New England Patriots,nwe,Los Angeles Rams,ram,201902030ram,0.0,3.0,0.0,10.0,0.0,0.0,3.0,0.0
+30,"('21-2019', 0)",San Francisco 49ers,sfo,20,Kansas City Chiefs,kan,31,Kansas City Chiefs,kan,San Francisco 49ers,sfo,202002020kan,7.0,3.0,0.0,21.0,3.0,7.0,10.0,0.0
