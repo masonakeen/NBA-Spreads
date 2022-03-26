@@ -1,0 +1,55 @@
+
+
+F1 scores on training data for various models:
+SVC: 			0.7819843342036553
+NuSVC: 			0.7954843261767967
+LinearSVC:		0.9994435169727324
+SGDClassifier: 		0.9996289424860854
+KNeighborsClassifier:	0.7855103497501785
+LogisticRegression: 	0.9979625856640119
+LogisticRegressionCV: 	0.7819843342036553
+BaggingClassifier: 	0.972972972972973
+ExtraTreesClassifier: 	0.9998145400593472
+RandomForestClassifier: 0.9998145400593472
+
+General notes:
+ - .642 is the rate at which home team wins. So we need better than .642 precision
+    in order to make better bets than "home team win"
+ - Ideally, precision is our key indicator here. Since we would want a model that
+    correctly identifies losers at a similar rate as they identify winners'
+ - using unweighted classes, models that do this well are:
+	- NuSVC (best) - gamma 'auto'
+	- KNN - no params
+	- Explore stuff like random forest because it's extremely good on training data
+
+
+
+Evals
+ - 	SVC has low precision (.642) but perfect (1.0) recall. this is because it's 
+	classifying everything as a home win
+ - 	NuSVC has high precision (.871) and decent recall (.732) for an overall more 
+	balanced f1 score. So we will sacrifice some home wins that we should've predicted
+	in favor of being more accurate with our predictions
+	- This model also gets decent recall on the loss class. Meaning that it basically
+	  gets 80% of the losses, but also .626 precision means that it gets the home loss wrong a lot
+ - 	LinearSVC is all .999 so there's something wrong there. Probably overfit
+ - 	I don't know how SGDC works but it's a gradient boosted model
+ - 	KNN has lower precision (.757) and higher recall (.817) which implies that its
+	decision boundary is a bit more lax
+ - 	Log Regression 
+
+
+
+
+- flaws
+  - Log Regression CV needs to be on all data, not train/test splits
+  - picking the winner isn't the only thing we need to be good at.
+    we should also have a way to evaluate how good the pick is because -200 miht
+    actually be a bad bet
+
+
+
+
+- NuSVC with gamma auto and class weights assigned:
+	- test precision of .624, recall of .594
+	- test precision of just .519 for losses and recall of .438
